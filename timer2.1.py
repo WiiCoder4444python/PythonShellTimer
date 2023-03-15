@@ -4,7 +4,7 @@ import time
 import math
 #sets up sounds
 pygame.mixer.init()
-pygame.mixer.music.load('~/Documents/Sound Python WAVs/Overworld.wav')
+pygame.mixer.music.load('~/Downloads/Sound.wav')
 #timer function
 def timer():
     #sets variables
