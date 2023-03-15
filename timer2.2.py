@@ -9,7 +9,7 @@ import time
 import math
 #sets up sounds
 pygame.mixer.init()
-pygame.mixer.music.load('/home/pi/Documents/Sound Python WAVs and MP3s/Videogame Music/Overworld.wav')
+pygame.mixer.music.load('~/Downloads/sound.wav')
 #timer function
 def timer():
     #sets variables
