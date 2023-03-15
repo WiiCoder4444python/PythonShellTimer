@@ -4,7 +4,7 @@ import time
 import math
 #sets up sounds
 pygame.mixer.init()
-pygame.mixer.music.load('~/Documents/Sound Python WAVs/mario64complete.wav')
+pygame.mixer.music.load('~/Downloads/sound.wav')
 #timer function
 def timer():
     #sets variables
